@@ -6,7 +6,14 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"D:/AdvUE/Pickle-Killer/PickleKiller/Content/StarterContent/Particles/P_Ambient_Dust.uasset",
-				"D:/AdvUE/Pickle-Killer/PickleKiller/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset"
+				"D:/AdvUE/Pickle-Killer/PickleKiller/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"D:/AdvUE/Pickle-Killer/PickleKiller/Content/Widgets/Minimap.uasset",
+				"D:/AdvUE/Pickle-Killer/PickleKiller/Content/Widgets/Minimap_Widget.uasset",
+				"D:/AdvUE/Pickle-Killer/PickleKiller/Content/Widgets/Minimap_Mat.uasset",
+				"D:/AdvUE/Pickle-Killer/PickleKiller/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
+				"D:/AdvUE/Pickle-Killer/PickleKiller/Content/Assets/MiniMap_Assets/MiniMap_Assets/Arrow-PNG-Transparent-HD-Photo.uasset",
+				"D:/AdvUE/Pickle-Killer/PickleKiller/Content/Assets/MiniMap_Assets/MiniMap_Assets/Arrow-PNG-Transparent-HD-Photo_Sprite.uasset",
+				"D:/AdvUE/Pickle-Killer/PickleKiller/Content/Assets/Models/Businessman.uasset"
 			]
 		}
 	]
